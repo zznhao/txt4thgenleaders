@@ -1,1 +1,2 @@
 # txt4thgenleaders
+In this repository, I will learn about the basics of html that I learned from The Odin Project but I will not be following the project given to create recipes but create one of my own about the K-pop group TXT. Enjoy!!
