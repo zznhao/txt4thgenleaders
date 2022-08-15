@@ -1,0 +1,30 @@
+.cover {
+    height:auto;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.title-track {
+    font-weight: bold;
+}
+
+div {
+    text-align: center;
+}
+
+.spotify {
+    height:auto;
+    width: 20px;
+}
+
+.button {
+    color: white;
+    background-color: rgb(27, 27, 27);
+    border-color: white;
+}
