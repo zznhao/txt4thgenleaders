@@ -1,0 +1,33 @@
+html {
+    background-color: #6c645c;
+}
+
+.indexh1 {
+    background-color: #171c22;
+    color: #db7978;
+    padding: 8px;
+    margin: 0;
+}
+
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.cover {
+    width: 300px;
+    height: auto;
+    margin: 8px;
+}
+
+.container {
+    background-color: #9c9484;
+    margin: 8px auto;
+    padding: 8px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: auto;
+}
