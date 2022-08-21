@@ -6,16 +6,10 @@ html {
     width: 20px;
     height:auto;
     margin: 8px;
-    display: inline-block;
 }
 
 body {
     max-width: 1000px;
-    margin: 0 auto;
-    padding: 0;
-}
-
-.container {
     margin: 8px auto;
     background-color: #9c9484;
     padding: 8px;
@@ -26,7 +20,6 @@ h1 {
     text-align: center;
     color: rgba(255, 255, 255, 0.7);
     margin: 0;
-    margin-bottom: 8px;
 }
 
 .cover {
@@ -42,7 +35,6 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
     margin-left: auto;
     margin-right: auto;
     background-color: #ffffff98;

@@ -2,9 +2,9 @@ html {
     background-color: #6c645c;
 }
 
-.indexh1 {
+h1 {
     background-color: #171c22;
-    color: #db7978;
+    color: rgba(255, 255, 255, 0.7);
     padding: 8px;
     margin: 0;
 }
