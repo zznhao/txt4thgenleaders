@@ -30,6 +30,7 @@ body {
 }
 
 .flexbox {
+    display: flex;
     margin: 8px;
     justify-content:space-around;
 }
